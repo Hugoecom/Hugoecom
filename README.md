@@ -26,6 +26,13 @@
 <img align="left" src="https://count.getloli.com/@:Hugoecom?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 
 <br clear="both">
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkicewolf50/darkicewolf50/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkicewolf50/darkicewolf50/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/darkicewolf50/darkicewolf50/output/github-snake-dark.svg" />
+</picture>
 
 ###
 
