@@ -26,3 +26,10 @@
 <img align="left" src="https://count.getloli.com/@:Hugoecom?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 
 <br clear="both">
+
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Support&fontSize=70&fontColor=800080&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
